@@ -39,4 +39,7 @@ This project demonstrates, in practice, the integration between modern frontend 
 ***
 
 # Demonstration Video
+
+The video used as an example is about 5 minutes long and discusses what the JavaScript language is. The application analyzes this content and automatically returns a clip between 30 and 60 seconds long, corresponding to the segment with the highest viral potential identified by the AI.
+
 https://github.com/user-attachments/assets/824b7789-e3ba-484d-a198-3caf4b567c0b
